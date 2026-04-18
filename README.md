@@ -90,9 +90,7 @@ https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
 customer-churn-prediction/
 │
 ├── data/
-│   ├── raw/
-        ├── churn.csv
-│   ├── processed/
+│   ├── churn.csv
 │
 ├── src/
 │   ├── data_preprocessing.py

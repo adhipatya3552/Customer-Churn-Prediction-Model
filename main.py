@@ -5,7 +5,7 @@ from src.train_model import train
 # -----------------------------
 # 1. Load data
 # -----------------------------
-df = load_and_clean_data("data/raw/churn.csv")
+df = load_and_clean_data("data/churn.csv")
 
 # -----------------------------
 # 2. Feature engineering

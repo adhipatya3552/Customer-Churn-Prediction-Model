@@ -69,6 +69,13 @@ Customer churn is a major challenge for telecom companies. This project predicts
 
 ---
 
+## 📥 Dataset
+
+Dataset used: Telco Customer Churn Dataset (Kaggle)
+https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset
+
+---
+
 ## 🖥️ Demo
 
 ![alt text](image.png)
@@ -84,6 +91,7 @@ customer-churn-prediction/
 │
 ├── data/
 │   ├── raw/
+        ├── churn.csv
 │   ├── processed/
 │
 ├── src/

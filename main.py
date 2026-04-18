@@ -15,7 +15,7 @@ df = encode_features(df)
 # -----------------------------
 # 3. SAVE processed dataset (NEW)
 # -----------------------------
-df.to_csv("data/processed/clean_data.csv", index=False)
+df.to_csv("data/clean_data.csv", index=False)
 
 # -----------------------------
 # 4. Train model
